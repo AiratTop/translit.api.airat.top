@@ -5,6 +5,7 @@
 Tiny Cloudflare Worker that transliterates Russian Cyrillic to Latin.
 
 Live endpoint: https://translit.api.airat.top
+Status page: https://status.airat.top
 
 ## API
 
